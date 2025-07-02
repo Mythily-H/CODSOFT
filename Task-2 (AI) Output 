@@ -1,0 +1,30 @@
+Welcome to Tic-Tac-Toe!
+Do you want to be X or O? X
+Do you want to go first? (Y/N): Y
+
+
+   |   |   
+---+---+---
+   |   |   
+---+---+---
+   |   |   
+
+
+Your move (1-9): 5
+
+
+   |   |   
+---+---+---
+   | X |   
+---+---+---
+   |   |   
+
+
+AI is making its move...
+
+
+ O |   |   
+---+---+---
+   | X |   
+---+---+---
+   |   |   

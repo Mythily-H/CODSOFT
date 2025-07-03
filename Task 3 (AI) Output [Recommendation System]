@@ -1,0 +1,9 @@
+Welcome to the Movie Recommendation System!
+Available genres: Action, Sci-Fi, Romance, Drama, Thriller, Crime, Adventure, Musical, Animation, Comedy
+
+Enter your preferred genres (comma-separated): Adventure 
+
+ Recommended Movies for You:
+- Avengers: Endgame
+- Interstellar
+- Toy Story
